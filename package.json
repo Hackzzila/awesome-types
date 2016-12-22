@@ -1,6 +1,6 @@
 {
   "name": "awesome-types",
-  "version": "1.0.0-2",
+  "version": "1.0.0-3",
   "description": "An awesome library for type checking on the fly.",
   "main": "index.js",
   "scripts": {
