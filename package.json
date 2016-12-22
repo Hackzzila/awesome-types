@@ -1,0 +1,35 @@
+{
+  "name": "awesome-types",
+  "version": "1.0.0-2",
+  "description": "An awesome library for type checking on the fly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackzzila/awesome-types.git"
+  },
+  "keywords": [
+    "types",
+    "checking",
+    "type",
+    "awesome"
+  ],
+  "author": "Hackzzila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackzzila/awesome-types/issues"
+  },
+  "homepage": "https://github.com/hackzzila/awesome-types#readme",
+  "devDependencies": {
+    "eslint": "^3.9.1",
+    "eslint-config-airbnb": "^12.0.0",
+    "eslint-plugin-import": "^1.16.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.5.0"
+  },
+  "dependencies": {
+    "type-detect": "^4.0.0"
+  }
+}
